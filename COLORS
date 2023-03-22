@@ -1,0 +1,24 @@
+GitHub Dark Dimmed             GitHub Dark Default            GitHub Light Default
+
+Black:          #545D68        Black:          #484F58        Black:          #24292F
+Bright Black:   #636E7B        Bright Black:   #6E7681        Bright Black:   #57606A
+Red:            #F47067        Red:            #FF7B72        Red:            #CF222E
+Bright Red:     #FF938A        Bright Red:     #FFA198        Bright Red:     #A40E26
+Green:          #57AB5A        Green:          #3FB950        Green:          #116329
+Bright Green:   #6BC46D        Bright Green:   #56D364        Bright Green:   #1A7F37
+Yellow:         #C69026        Yellow:         #D29922        Yellow:         #B08800
+Bright Yellow:  #DAAA3F        Bright Yellow:  #E3B341        Bright Yellow:  #DBAB09
+Blue:           #539BF5        Blue:           #58A6FF        Blue:           #0969DA
+Light Blue:     #6CB6FF        Light Blue:     #79C0FF        Light Blue:     #218BFF
+Magenta:        #B083F0        Magenta:        #BC8CFF        Magenta:        #8250DF
+Light Magenta:  #DCBDFB        Light Magenta:  #D2A8FF        Light Magenta:  #A475F9
+Cyan:           #39C5CF        Cyan:           #39C5CF        Cyan:           #1B7C83
+Light Cyan:     #56D4DD        Light Cyan:     #56D4DD        Light Cyan:     #3192AA
+White:          #909DAB        White:          #B1BAC4        White:          #6E7781
+Bright White:   #CDD9E5        Bright White:   #FFFFFF        Bright White:   #8C959F
+Text:           #adbac7        Text:           #c9d1bf        Text:           #000000
+Bold Text:      #adbac7        Bold Text:      #c9d1bf        Bold Text:      #000000
+Selection:      #ADBAC7        Selection:      #8B949E        Selection:      #A8BFDB
+Cursor:         #539BF5        Cursor:         #58A6FF        Cursor:         #0969DA
+Background:     #1C2128        Background:     #010409        Background:     #F6F8FA
+Foreground:     #ADBAC7        Foreground:     #C9D1D9        Foreground:     #24292F
