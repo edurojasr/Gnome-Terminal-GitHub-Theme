@@ -14,15 +14,15 @@ Here are some previews
 
 ### Dark Default
 
-![Dark-Dimmed](img/Dark-default.png)
+![Dark-Dimmed](img/dark-default.png)
 
 ### Dark Dimmed
 
-![Dark-Default](img/Dark-dimmed.png)
+![Dark-Default](img/dark-dimmed.png)
 
 ### Light Default
 
-![Light-Default](img/Light-default.png)
+![Light-Default](img/light-default.png)
 
 ## Installation
 
